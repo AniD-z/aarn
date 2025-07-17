@@ -146,8 +146,8 @@ export default function ContactPage() {
               <CardContent className="pt-0">
                 <div className="space-y-1 md:space-y-2">
                   <p className="font-medium text-sm md:text-base">AARN Polymers</p>
-                  <p className="text-gray-600 text-sm md:text-base">Industrial Area, Sector 15</p>
-                  <p className="text-gray-600 text-sm md:text-base">Manufacturing City, MC 12345</p>
+                  <p className="text-gray-600 text-sm md:text-base">NO. 3/2 Thagachaguppe Village, Kumbalagodu post</p>
+                  <p className="text-gray-600 text-sm md:text-base">Banglore, Karnataka</p>
                   <Button asChild variant="outline" className="w-full mt-3 md:mt-4 text-sm bg-transparent">
                     <a href="https://maps.google.com" target="_blank" rel="noopener noreferrer">
                       Get Directions
@@ -165,7 +165,7 @@ export default function ContactPage() {
                 </CardTitle>
               </CardHeader>
               <CardContent className="pt-0">
-                <p className="text-base md:text-lg font-medium">(555) 123-AARN</p>
+                <p className="text-base md:text-lg font-medium">(+91) 9535187716</p>
                 <p className="text-gray-600 text-xs md:text-sm mt-1">Call us for immediate assistance</p>
               </CardContent>
             </Card>

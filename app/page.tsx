@@ -437,16 +437,16 @@ export default function HomePage() {
             <div className="space-y-4">
               <h3 className="text-lg font-medium text-stone-200">Contact Us</h3>
               <div className="space-y-2 text-stone-400">
-                <p>Industrial Area, Sector 15</p>
-                <p>Manufacturing City, MC 12345</p>
-                <p>Phone: (555) 123-AARN</p>
+                <p>NO. 3/2 Thagachaguppe Village, Kumbalagodu post</p>
+                <p>Banglore, Karnataka</p>
+                <p>Phone: (+91) 9535187716</p>
                 <p>rinku@aarnpolymers.com</p>
               </div>
             </div>
           </div>
           <div className="border-t border-stone-700 mt-12 pt-8 text-center">
             <p className="text-stone-500 font-light">
-              &copy; 2024 AARN Polymers. Leading the way in sustainable plastic recycling.
+              &copy; 2025 AARN Polymers. Leading the way in sustainable plastic recycling.
             </p>
           </div>
         </div>

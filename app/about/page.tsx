@@ -136,7 +136,7 @@ export default function AboutPage() {
                   height={150}
                   className="rounded-full mx-auto mb-3 md:mb-4 w-24 h-24 md:w-32 md:h-32"
                 />
-                <h3 className="text-lg md:text-xl font-semibold mb-1 md:mb-2">Rinku Sharma</h3>
+                <h3 className="text-lg md:text-xl font-semibold mb-1 md:mb-2">Rinku Kumari</h3>
                 <p className="text-blue-600 mb-2 text-sm md:text-base">Founder & CEO</p>
                 <p className="text-gray-600 text-xs md:text-sm">
                   Chemical Engineer with 15+ years in polymer science and sustainable manufacturing. Visionary leader
@@ -144,40 +144,7 @@ export default function AboutPage() {
                 </p>
               </CardContent>
             </Card>
-            <Card className="text-center">
-              <CardContent className="pt-4 md:pt-6 p-4 md:p-6">
-                <Image
-                  src="/placeholder.svg?height=150&width=150"
-                  alt="Dr. Priya Patel"
-                  width={150}
-                  height={150}
-                  className="rounded-full mx-auto mb-3 md:mb-4 w-24 h-24 md:w-32 md:h-32"
-                />
-                <h3 className="text-lg md:text-xl font-semibold mb-1 md:mb-2">Dr. Priya Patel</h3>
-                <p className="text-blue-600 mb-2 text-sm md:text-base">Head of R&D</p>
-                <p className="text-gray-600 text-xs md:text-sm">
-                  PhD in Materials Science with expertise in polymer processing and quality control. Leads our research
-                  and product development initiatives.
-                </p>
-              </CardContent>
-            </Card>
-            <Card className="text-center sm:col-span-2 lg:col-span-1">
-              <CardContent className="pt-4 md:pt-6 p-4 md:p-6">
-                <Image
-                  src="/placeholder.svg?height=150&width=150"
-                  alt="Amit Kumar"
-                  width={150}
-                  height={150}
-                  className="rounded-full mx-auto mb-3 md:mb-4 w-24 h-24 md:w-32 md:h-32"
-                />
-                <h3 className="text-lg md:text-xl font-semibold mb-1 md:mb-2">Amit Kumar</h3>
-                <p className="text-blue-600 mb-2 text-sm md:text-base">Operations Director</p>
-                <p className="text-gray-600 text-xs md:text-sm">
-                  Industrial Engineering background with 12+ years in manufacturing operations. Ensures efficient
-                  production and quality standards.
-                </p>
-              </CardContent>
-            </Card>
+            
           </div>
         </div>
 
@@ -229,9 +196,9 @@ export default function AboutPage() {
                 </h3>
                 <div className="space-y-1 md:space-y-2 text-sm md:text-base text-gray-600 mb-4 md:mb-6">
                   <p>AARN Polymers Manufacturing Unit</p>
-                  <p>Industrial Area, Sector 15</p>
-                  <p>Manufacturing City, MC 12345</p>
-                  <p>Phone: (555) 123-AARN</p>
+                  <p>NO. 3/2 Thagachaguppe Village, Kumbalagodu post</p>
+                  <p>Banglore, Karnataka</p>
+                  <p>Phone: (+91) 9535187716</p>
                   <p>Email: rinku@aarnpolymers.com</p>
                 </div>
                 <Button asChild className="w-full sm:w-auto">

@@ -11,7 +11,7 @@ export default function ProductsPage() {
   const products = [
     {
       name: "Polypropylene (PP)",
-      price: "$1,200/ton",
+      price: "",
       quality: "Premium Grade",
       type: "Thermoplastic",
       description:
@@ -21,7 +21,7 @@ export default function ProductsPage() {
     },
     {
       name: "Polyethylene (PE)",
-      price: "$1,100/ton",
+      price: "",
       quality: "Industrial Grade",
       type: "Thermoplastic",
       description:
@@ -31,7 +31,7 @@ export default function ProductsPage() {
     },
     {
       name: "Polyvinyl Chloride (PVC)",
-      price: "$950/ton",
+      price: "",
       quality: "Standard Grade",
       type: "Thermoplastic",
       description:
@@ -41,7 +41,7 @@ export default function ProductsPage() {
     },
     {
       name: "Polyethylene Terephthalate (PET)",
-      price: "$1,350/ton",
+      price: "",
       quality: "Food Grade",
       type: "Thermoplastic",
       description:
@@ -51,7 +51,7 @@ export default function ProductsPage() {
     },
     {
       name: "Polystyrene (PS)",
-      price: "$1,050/ton",
+      price: "",
       quality: "Commercial Grade",
       type: "Thermoplastic",
       description:
@@ -61,7 +61,7 @@ export default function ProductsPage() {
     },
     {
       name: "Acrylonitrile Butadiene Styrene (ABS)",
-      price: "$1,450/ton",
+      price: "",
       quality: "Engineering Grade",
       type: "Thermoplastic",
       description:
